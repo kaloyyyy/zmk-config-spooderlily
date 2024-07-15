@@ -22,11 +22,11 @@
             //                     | ALT  | GUI  | LOWER|  SPACE |  | ENTER | RAISE| BSPC  | GUI   |
 
             bindings = <
-&kp ESC     &kp GRAVE       &kp N2        &kp N3        &kp N4  &kp N5     &kp N6
-&kp DELETE  &kp TAB         &kp Q         &kp W         &kp E   &kp R      &kp T          &kp LEFT_BRACKET
-&kp HOME    &kp CAPS        &kp A         &kp S         &kp D   &kp F      &kp G          &kp MINUS
-&kp END     &kp LEFT_SHIFT  &kp Z         &kp X         &kp C   &kp V      &kp B          &kp SLASH
-            &kp LCTRL       &kp LEFT_WIN  &kp LEFT_ALT  &mo 1   &kp SPACE  &kp BACKSPACE  &kp RET
+&kp ESC     &kp GRAVE       &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp N5
+&kp DELETE  &kp TAB         &kp Q         &kp W         &kp E         &kp R         &kp T          &kp LEFT_BRACKET
+&kp HOME    &kp CAPS        &kp A         &kp S         &kp D         &kp F         &kp G          &kp MINUS
+&kp END     &kp LEFT_SHIFT  &kp Z         &kp X         &kp C         &kp V         &kp B          &kp SLASH
+            &kp LCTRL       &kp LEFT_WIN  &kp LEFT_ALT  &mo 1         &kp SPACE     &kp BACKSPACE  &kp RET
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
