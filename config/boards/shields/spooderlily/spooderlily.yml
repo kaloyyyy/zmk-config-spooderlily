@@ -1,13 +1,12 @@
 file_format: "1"
-id: lily58
-name: Lily58
+id: spooderlily
+name: spooderlily
 type: shield
-url: https://github.com/kata0510/Lily58
+url: https://github.com/kaloyyyy/zmk-config-spooderlily
 requires: [pro_micro]
-exposes: [i2c_oled]
 features:
   - keys
   - underglow
 siblings:
-  - lily58_left
-  - lily58_right
+  - spooderlily_left
+  - spooderlily_right
