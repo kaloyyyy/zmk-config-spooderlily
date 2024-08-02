@@ -20,11 +20,11 @@
             //                     | ALT  | GUI  | LOWER|  SPACE |  | ENTER | RAISE| BSPC  | GUI   |
 
             bindings = <
-&kp ESC   &kp GRAVE  &kp N1    &kp N2        &kp N3  &kp N4     &kp N5   &kp LBKT        &kp RBKT      &kp N7  &kp N8         &kp N9     &kp N0    &kp MINUS  &kp EQUAL  &kp DEL
-&kp DEL   &kp TAB    &kp Q     &kp W         &kp F   &kp P      &kp G    &kp MINUS       &kp EQUAL     &kp J   &kp L          &kp U      &kp Y     &kp SEMI   &kp BSLH   &kp BACKSPACE
-&kp HOME  &kp BSPC   &kp A     &kp R         &kp S   &kp T      &kp D                                  &kp H   &kp N          &kp E      &kp I     &kp O      &kp SQT    &kp RET
-&kp END   &kp LSHFT  &kp Z     &kp X         &kp C   &kp V      &kp B    &kp LEFT_ARROW  &kp RIGHT     &kp N   &kp M          &kp COMMA  &kp DOT   &kp FSLH   &kp RSHFT  &mo 1
-          &kp LCTRL  &kp LWIN  &kp LEFT_ALT  &mo 0   &kp SPACE  &kp RET  &kp DOWN        &kp UP_ARROW  &kp N8  &kp BACKSPACE  &mo 1      &kp RALT  &kp RWIN   &kp RCTRL
+&kp ESC   &kp GRAVE  &kp N1    &kp N2        &kp N3  &kp N4     &kp N5   &kp LBKT        &kp RBKT      &kp N6  &kp N7         &kp N8     &kp N9    &kp N0    &kp DELETE  &kp PRINTSCREEN
+&kp DEL   &kp TAB    &kp Q     &kp W         &kp F   &kp P      &kp G    &kp MINUS       &kp EQUAL     &kp J   &kp L          &kp U      &kp Y     &kp SEMI  &kp BSLH    &kp BACKSPACE
+&kp HOME  &kp BSPC   &kp A     &kp R         &kp S   &kp T      &kp D                                  &kp H   &kp N          &kp E      &kp I     &kp O     &kp SQT     &kp RET
+&kp END   &kp LSHFT  &kp Z     &kp X         &kp C   &kp V      &kp B    &kp LEFT_ARROW  &kp RIGHT     &kp N   &kp M          &kp COMMA  &kp DOT   &kp FSLH  &kp RSHFT   &mo 1
+          &kp LCTRL  &kp LWIN  &kp LEFT_ALT  &mo 0   &kp SPACE  &kp RET  &kp DOWN        &kp UP_ARROW  &kp N8  &kp BACKSPACE  &mo 1      &kp RALT  &kp RWIN  &kp RCTRL
             >;
         };
 
